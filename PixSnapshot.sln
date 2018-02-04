@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PixSnapshot", "PixSnapshot\PixSnapshot.csproj", "{EB5D6DEA-6AE2-4545-A708-6F0F2B1F5C50}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PixSnapshotTests", "PixSnapshotTests\PixSnapshotTests.csproj", "{CEB16D34-3CB1-4385-AE11-FF91D84CE476}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EB5D6DEA-6AE2-4545-A708-6F0F2B1F5C50}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB5D6DEA-6AE2-4545-A708-6F0F2B1F5C50}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB5D6DEA-6AE2-4545-A708-6F0F2B1F5C50}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB5D6DEA-6AE2-4545-A708-6F0F2B1F5C50}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CEB16D34-3CB1-4385-AE11-FF91D84CE476}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CEB16D34-3CB1-4385-AE11-FF91D84CE476}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CEB16D34-3CB1-4385-AE11-FF91D84CE476}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CEB16D34-3CB1-4385-AE11-FF91D84CE476}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1FC5B8B7-0D38-4FE4-A3F7-6D33B92DF7CE}
+	EndGlobalSection
+EndGlobal
